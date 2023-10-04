@@ -96,7 +96,7 @@ footer {
 </section>
 
 <footer>
-  <p>Footer</p>
+  <p>this is the footer</p>
 </footer>
 
 </body>
